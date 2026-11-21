@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "notes": "- feat!(macos): add software update feature to SettingsPanel",
-  "pub_date": "2026-11-21T23:04:20Z",
+  "version": "1.0.7",
+  "notes": "- fix(sync/ios): recover cleanly from suspension so iOS sync actually completes",
+  "pub_date": "2026-11-21T23:09:15Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.6/donzo-finance-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalRDTFQ2TTA2ZHJrQjE2N0Nkd1BPc2ovWkxOVHNkc0J4OFRORmo3ZDF0TVliSFhZdWxEWmdtb2xXaGxGenBLVnkwL25HU1A4eUljbnRiRjFqRjRwZUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAyMjM3CWZpbGU6ZG9uem8tZmluYW5jZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKQWxJdklVc0NZRWQyUHltT21zbUpMb3F3bVNyQUU3VjhITWF5NnkvMFZHUnBQc1F4L2Z4T1JNazJwMVYzRVBreTdtN095cUtTRUNKOUMxRHkrT3hTQmc9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.7/donzo-finance-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalg4SFV3VjRidHp0N1U1ZDM3RkVEb2VMbkVRWGdFUHE1b243MHYremtkazZ4TFBZYXo1WkJNYW5acC9nd1d2QzQ3bzNUVm90QllwOWF1NTdwYnBMRXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAyNTQwCWZpbGU6ZG9uem8tZmluYW5jZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKb1FSRVhoUm5qNFBCbzBvODNaV09OcER0a0NsVzVwWThnS29CbGh6MysxZVkzNzY2WEIwMWVpa05xZTY3OEtYempSclQ3cG9TVDg1OWwzQ1VSR0xRQmc9PQo="
     }
   }
 }
