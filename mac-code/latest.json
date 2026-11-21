@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "notes": "- chore: update app name and bundle id in build script and docs",
-  "pub_date": "2026-11-21T22:57:17Z",
+  "version": "1.0.6",
+  "notes": "- feat!(macos): add software update feature to SettingsPanel",
+  "pub_date": "2026-11-21T23:04:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.5/donzo-code-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalNpMUQrUm53K0NYQmo2UWh3dDhxQzZyaHhJcjBlVklEVHk5Qkx3QktRMkRWS2lEMmw4T1hPM3JkVUsxcVkyd1hMc05HMHJhRU91TU82aE10ZGV4QndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAxODA2CWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKNXJVcWVzdFF1Q3BQcGZqNXBUclRuKzVjMEJZZEJ5SmtmaWZiTHd5Rlh6aUxrYXd3YXo5UzZZRmRsN2M1aU1ibS9QRzZRcnFLVmU3NWdNK1RWV0lMQUE9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.6/donzo-code-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalRRSUNicDVoREdzWVJGU2ZYT2NvYWxqcHNFSStCWmJ0MDBVQmNjYmFkTzlZVXQvVTYvTDFGQlVTR21OdWExTEhJcTl1RDFvVzV6VHJ4UkV5dmhhVUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAyMjM1CWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKbk9ENDR5OFVTRjFTVmJPcitxUFlsS3dpQTRhc3d3Njh6S3JMaHFQOUJCWkR6dFBTZlY2Y3NicndqRGJwdE5STkZ0UTAweW9QUUJob0tkeGxPQWdnQ2c9PQo="
     }
   }
 }
