@@ -1,11 +1,11 @@
 {
-  "version": "1.0.7",
-  "notes": "- fix(sync/ios): recover cleanly from suspension so iOS sync actually completes",
-  "pub_date": "2026-11-21T23:09:15Z",
+  "version": "1.0.9",
+  "notes": "- feat(build): update app display name in build script\n- feat!: silent install, app menu updates, and pill behavior changes",
+  "pub_date": "2026-11-21T23:13:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.7/donzo-code-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalN3WEpCVzhvQ0gzNlpoZUF6OVpJVlAyRVlOeXlWb0pTZTZ3eGVxZFZ1ZUZyNVVvWWN4VlJGbXNCODU4aW9JRC96SThBa0RKK095a0Z3L2ZmZmpvbmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAyNTM3CWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKeFoyR0dDZ2FMMkl5MUwwcTZ6UExIVkdtMDRaMTdvN1prdndiVjFTNnBXdUFRSW5pMUs3blIrcGVUZFd5YUdNNitKZW9QT01oZWdwOXltc3dVMU1yQXc9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.9/donzo-code-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRaldHeGRQN3RUcThuKzVsbWxmSkRVMGFPK21GWSt6M1RuOHRRcGJoekFqNm91ODJNWUJvTFcyZWptUi8yci9WQ21JODNnUDRVMzJZSWUvTThMbmN0SFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAyNzYxCWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKUUpwSnVYRXR1dUUrOGl4WFp4a2pQbE5PTFZkQ04vVmtUSnF4bmlsVEhLUGdjNWxXSkE0L0c2UzlsUDNzMnBzRzUxbTNIRnpCalFqQitlVGhzMk1QRFE9PQo="
     }
   }
 }
