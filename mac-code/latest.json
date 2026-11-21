@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "- feat(triage): add triage skill and update release script for macOS",
-  "pub_date": "2026-11-21T22:50:58Z",
+  "version": "1.0.5",
+  "notes": "- chore: update app name and bundle id in build script and docs",
+  "pub_date": "2026-11-21T22:57:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.4/donzo-code-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamZPVys3V2ZpakpNSXZ4cW5oQ05DYW1lREtsdXYyZ0lYSjR2Ym9EbEVjYjkrREhZVFp0d3NPYm1YOVBIRS9VMUVxaDMxT1BFcVJTdUUxa1V5T0hXWVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAxNDMyCWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKWXhhaEdFUnRLejM5ZXh1bnh0eng0d1pNbVlQcUg3Z3JDeGVuMXp1UDI5TDhsQVNHM2ZVNzFHaTBJTjhneXNvREkvbGRiNUxoc2JYcmtwWGVUMzg1Q0E9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.5/donzo-code-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalNpMUQrUm53K0NYQmo2UWh3dDhxQzZyaHhJcjBlVklEVHk5Qkx3QktRMkRWS2lEMmw4T1hPM3JkVUsxcVkyd1hMc05HMHJhRU91TU82aE10ZGV4QndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAxODA2CWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKNXJVcWVzdFF1Q3BQcGZqNXBUclRuKzVjMEJZZEJ5SmtmaWZiTHd5Rlh6aUxrYXd3YXo5UzZZRmRsN2M1aU1ibS9QRzZRcnFLVmU3NWdNK1RWV0lMQUE9PQo="
     }
   }
 }
