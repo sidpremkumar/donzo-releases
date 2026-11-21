@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "- feat(triage): add triage skill and update release script for macOS",
-  "pub_date": "2026-11-21T22:50:58Z",
+  "version": "1.0.5",
+  "notes": "- chore: update app name and bundle id in build script and docs",
+  "pub_date": "2026-11-21T22:57:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.4/donzo-finance-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalVCc1d3RDBiOEtzRWZVd2U5NzVBblNXRE56UElmWXkwMFpaMjl2WUYzdzRVSDRqdll5TmhzN1Y3cDBNckg0aS9TaWkrWTI3MDBRRVZJUWlJT0lndUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAxNDM0CWZpbGU6ZG9uem8tZmluYW5jZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKamM0UXRCTEdxN3FGMHFiZnFVaTI2Z0Y2aC9EZU5iQnNXcnNnVnYyNTZjVzZmbFhlNjJ5NnU5ekJhZ3lQdmljVUZEUjUyazNSTktYMGRjWVBpdzI0Q2c9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.5/donzo-finance-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalFCRmpDQTVpS3kzamdrOUc3c0FTRFVUVVhjVVAzTHNGQVVVUUxIckFrS24wZDZNUDlHODRWclNrZVVpbWZ6bTRWUFFKZnR3UUVMSUVJaGdTT3NOUkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAxODA4CWZpbGU6ZG9uem8tZmluYW5jZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKQjBTVmpwcmRXM2NZTGhMeXR3TUl2dEtRWjVwMlFKMW5oSDIxd0VodWgyWndKRk5iaDUvYW9QeEdrTHAyTTZtNldlRXJKRHFWVS8wTEp1ZXg5eG1jQnc9PQo="
     }
   }
 }
