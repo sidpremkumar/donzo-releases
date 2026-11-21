@@ -1,11 +1,11 @@
 {
-  "version": "1.0.7",
-  "notes": "- fix(sync/ios): recover cleanly from suspension so iOS sync actually completes",
-  "pub_date": "2026-11-21T23:09:15Z",
+  "version": "1.0.9",
+  "notes": "- feat(build): update app display name in build script\n- feat!: silent install, app menu updates, and pill behavior changes",
+  "pub_date": "2026-11-21T23:13:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.7/donzo-mail-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalVwK0JPL2RFemVYakRMOTNTTm5ZUC9nTTgyMTU0OGFsSHNFdTRVZFRVS3pqSElNWHVmYTJUS3IvVDhEVXdYa2NrblRkMitBbTBENm9zQzFtbjNodHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAyNTMzCWZpbGU6ZG9uem8tbWFpbC1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKaVJqUGhsWVRsV3lEcWhqVVpESzFCcUhSM3ZiTGd3Q29vK2t2YVhRTnh5cy9tZzJ2WEpma3lCY25RR01tSkg0bWFlZ2Jzc3RqN2R2dmY5L0UybGxqQnc9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.9/donzo-mail-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalJ1dW9SNUNNc01jS2JJTFlMTEhkTi9SYTJLbXJWTFpjQ0JObUJrZm9VUEFsU0dxS25PODYyemVZTHl3MWE3WmFQRE41bVJnNklOdWpjek1GcEdxV0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAyNzU3CWZpbGU6ZG9uem8tbWFpbC1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKQzROUCt0dkNYdHNwci9BZUpKUDRFR1NPbzVrTmhVSDl4M3JadFVVazI2MUxxTHRmclh5QmprZk9hVmVkRkNPVGN6R0pnSlJvUWJEaytPTUZmNkNsQ3c9PQo="
     }
   }
 }
