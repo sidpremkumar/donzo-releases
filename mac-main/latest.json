@@ -1,11 +1,11 @@
 {
-  "version": "1.0.15",
-  "notes": "- Morning digest: Got it on one device clears it everywhere quickly\n- Sync: a backgrounded iPhone can no longer stall other devices",
-  "pub_date": "2026-11-22T14:31:31Z",
+  "version": "1.0.16",
+  "notes": "- feat(monitoring): new app icon and larger widget refresh target\n- fix(sync): migration so one stuck push cannot stall every device\n- feat(mail): user-made mail rules with their own badges\n- fix(build): require a matching profile so Mac Handoff advertises to iPhone\n- fix(monitoring): create signing profiles with the Xcode account\n- feat(monitoring): add standalone iOS system monitor with widgets\n- chore(skills): rebuild-imessage deploys every edge function\n- chore(xcode): commit regenerated schemes, extension plists and widget project\n- chore(ios): sync bundled browser-agent with its sidecar source\n- chore(mcp): authenticate Supabase MCP with an env token",
+  "pub_date": "2026-11-22T15:50:52Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.15/donzo-main-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalRrRkFSOGZZRytzcWFCTkVTRWVyd3FOb1ZDTENDSWR2alh4UEQ3a2pOWXdkTzhrQzhJRkNXdVNVSjg2eFlxWWJJOGQxZ21RR1ErU2N3ODFlbmcxM2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzU3ODY5CWZpbGU6ZG9uem8tbWFpbi1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKT3FYcnZnbTFkOGg4UUVmUHB3bCtXRWpPcXZCMTduQTI3V1hLTFJhVEVDclNNcWluTEc2Z2pDQlJSUS9iaGllYTExM1dpVzZDMUhGWWMwZ05HQUxXRFE9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.16/donzo-main-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalVKLzRKdmVnYWJGSTlxVGtTNm1veDVqNWtaTlpsVzRpYjgyVW13L1RtZkdXTXdYazRmYk91RXg4OUJGM21ZZkNlQlNCazRkMzF2d3FGczRLV0hpWVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzYyNjI5CWZpbGU6ZG9uem8tbWFpbi1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKOXo1SnY3NlBqODdSbGlZcXFreXMyRnA1TUd3d0xEOVgxK1VVOUlpWHNrOWVyN2o0clJBNlZxdXd4UmUwMnVySDJRUDFUWUpITWs4Ni83bWdnTHZMQVE9PQo="
     }
   }
 }
