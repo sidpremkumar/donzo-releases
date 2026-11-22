@@ -1,11 +1,11 @@
 {
-  "version": "1.0.13",
-  "notes": "- feat(mail): VIPs always notify; clean swipe rows in Tasks and Chat\n- feat(mail): VIP senders + clean swipe background on iOS\n- feat(imessage): end every alert/digest message with its link so Messages shows a link card\n- fix(build): pin signing identity by SHA-1 when a renewed cert makes the name ambiguous\n- fix(imessage/ios): short mail-alert links + open the thread on a cold-launch tap",
-  "pub_date": "2026-11-22T13:04:42Z",
+  "version": "1.0.14",
+  "notes": "- Mail: Important and Newsletters in the sidebar now count unread only\n- Restart to Update no longer leaves a second, unpinned icon in the Dock",
+  "pub_date": "2026-11-22T14:13:33Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.13/donzo-mail-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalN4NGtvWURvZFRNR2kwbVdKeW9jTkFqc0hyNlBUU0lOcGdpM0w4Q0MwQ2hBSDJQNzJwWUVyT0tZaWF6ZGpvd0szVG0wcTZYOEdDQnVhQVJyRFVMUWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzUyNjYyCWZpbGU6ZG9uem8tbWFpbC1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKbVNUNW95Zi9Ld282R0VVS1E1WFAvd3hid3Q4TnFVTWJPV0p0ajlTc1NFUkQ4NENmZUx2TGE5djEyRUZ3NVR0WXI4T0RXM01FVnhLeWlNMlQ2UnlHRFE9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.14/donzo-mail-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRallSNVJvTFdkNHE4Y3lGeFk4MmZHZ2pMSUxZZkdEV3FUNFhza0JCcVVVSzR5OE1jOHpOaVM1eVV3RjdqWHJQd2treStoUHkvd2NBbGV1NnA0djZaOGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzU2NzkyCWZpbGU6ZG9uem8tbWFpbC1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKaDh1VVZ4dWlGbTR5dVd2bFlEaVpBMjl5S3BxL0w2d0JCNmlGY3FtYWxHTFArY3RrYTk2eWk4T29KVkNvSHFSZnh5dzdsNXk5eElNMTR2MDg3UnIxQ2c9PQo="
     }
   }
 }
