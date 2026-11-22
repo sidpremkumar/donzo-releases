@@ -1,11 +1,11 @@
 {
-  "version": "1.0.16",
-  "notes": "- feat(monitoring): new app icon and larger widget refresh target\n- fix(sync): migration so one stuck push cannot stall every device\n- feat(mail): user-made mail rules with their own badges\n- fix(build): require a matching profile so Mac Handoff advertises to iPhone\n- fix(monitoring): create signing profiles with the Xcode account\n- feat(monitoring): add standalone iOS system monitor with widgets\n- chore(skills): rebuild-imessage deploys every edge function\n- chore(xcode): commit regenerated schemes, extension plists and widget project\n- chore(ios): sync bundled browser-agent with its sidecar source\n- chore(mcp): authenticate Supabase MCP with an env token",
-  "pub_date": "2026-11-22T15:50:52Z",
+  "version": "1.0.17",
+  "notes": "- fix(sync): apply the stuck-push migration at app launch\n- feat(monitoring): bump the version on every release, add /rebuild-monitoring",
+  "pub_date": "2026-11-22T16:14:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.16/donzo-calendar-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalpPVnE2SmJwSXpkVU50SFMxTjNhZkFBcm8rcnNJa0VwTk02TCsyYlc3S0J4ZVRhSklJWG1vaEY3MWlaUVA4MW01bjZVSGZVM2Y0NWRpbllqdXRBSWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzYyNjMzCWZpbGU6ZG9uem8tY2FsZW5kYXItbWFjb3MtYWFyY2g2NC5hcHAudGFyLmd6CjJ2SjA5Qmo2Z3h0aXMySkEwOHQvNTdZdEVUVkhLa3V2dEtmTklDNnQ4MHRPWGlWNlNHLys5UTJvanY5ZFdmaUtWZ2s1L3BBSGoyM0NITXk3SmJDQURRPT0K"
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.17/donzo-calendar-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalN1YVhNR1VCQ1ZJdFl3RHFUV3E3T1BQUldTRnBwR0FPNlEvRjRyeUhONDhCVDYvMllyUUxSVVpYUHNzd0l6K0EzdkorRWFTQmxtRjNJYXlvaDFDOWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzY0MDU4CWZpbGU6ZG9uem8tY2FsZW5kYXItbWFjb3MtYWFyY2g2NC5hcHAudGFyLmd6CmhhRzE1VHlKcS83SzdMU1QvQ3JaclZsdGVBOGlFN0ZjTzZla1lTYW56MFRnMVJvT1dvSHhIZHgwT3dOYUs2L1NOazdtYmxUNUVsb2JxclgyYnk5K0FBPT0K"
     }
   }
 }
