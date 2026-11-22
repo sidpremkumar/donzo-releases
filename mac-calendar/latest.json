@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "notes": "- feat(build): update app display name in build script\n- feat!: silent install, app menu updates, and pill behavior changes",
-  "pub_date": "2026-11-21T23:13:04Z",
+  "version": "1.0.13",
+  "notes": "- feat(mail): VIPs always notify; clean swipe rows in Tasks and Chat\n- feat(mail): VIP senders + clean swipe background on iOS\n- feat(imessage): end every alert/digest message with its link so Messages shows a link card\n- fix(build): pin signing identity by SHA-1 when a renewed cert makes the name ambiguous\n- fix(imessage/ios): short mail-alert links + open the thread on a cold-launch tap",
+  "pub_date": "2026-11-22T13:04:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.9/donzo-calendar-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRallHN2E4clU3anhkeGo3ekkzUUducWRuNmV1YVJJUUIzTStJYzY5N25tUU85dzgwb0hiZXhQOWUwMUtqcW00a1JFbmVJc0VvMHFuVThURlJHS3d5aFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzAyNzU5CWZpbGU6ZG9uem8tY2FsZW5kYXItbWFjb3MtYWFyY2g2NC5hcHAudGFyLmd6CjlVOWNCdjRVOUhoMEFySXA2ZXgvMHBETVRIYXluNXNWd1hpQ3NKM1VpOEoxNUljTVl3RFZNdHBrUTdxMXNHbkhIaU5kTC9ZemxXSXBpV3VWeDh5RUN3PT0K"
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.13/donzo-calendar-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamRpdjRxMGJDVHF5SkNCWlpPR3huUjlwM0ZBMURCSmVsOWNWa2JvUkZzNGFPUDNMaWFoenJIZ1BGdDRVYVJpbEtsOGY0cWliQk14ekhSc3I0OWFrMlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzUyNjY0CWZpbGU6ZG9uem8tY2FsZW5kYXItbWFjb3MtYWFyY2g2NC5hcHAudGFyLmd6Ck1VOTErdnRJbUFFaXVKZSs5YVZDVGE1VFE5dEpGVHVsMTZzeithZUlHYzZJNkZzOFpXUi9iQjQ3VTJxenVpK2lGM3JhM3VpKzg0UjE4SDhjTks5MEJ3PT0K"
     }
   }
 }
