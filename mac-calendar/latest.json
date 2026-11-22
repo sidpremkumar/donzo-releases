@@ -1,11 +1,11 @@
 {
-  "version": "1.0.14",
-  "notes": "- Mail: Important and Newsletters in the sidebar now count unread only\n- Restart to Update no longer leaves a second, unpinned icon in the Dock",
-  "pub_date": "2026-11-22T14:13:33Z",
+  "version": "1.0.15",
+  "notes": "- Morning digest: Got it on one device clears it everywhere quickly\n- Sync: a backgrounded iPhone can no longer stall other devices",
+  "pub_date": "2026-11-22T14:31:31Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.14/donzo-calendar-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRaldKTUpvOXFRaFUyZTltd0lCbWFaNzkzWGhnNFBhTVl2VzlBdkhoUDl3bVNrNERveThHRlp4OWVGUjU5VlZuTFV6TXRXNHB4TEV4cVRYTkdqY1ZGRVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzU2Nzk0CWZpbGU6ZG9uem8tY2FsZW5kYXItbWFjb3MtYWFyY2g2NC5hcHAudGFyLmd6Ckl3TnpwN0lXR1R6b1RGaGFOSGxoMjY1Wk8rYlQyQ3VMNkNXckxmZWVVY3lHNmV1bzZMSU91VTl2UmFwY2ppUDVnUFJja1lwSktkcUNTcFlzcXU0RkFRPT0K"
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.15/donzo-calendar-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalpvdzlKOHJXSWN0WkZjZEROUUR3cHZQeEdpczM0S0xYUTd6Ukw4eGtxK2Z3NGJacmhLTHdwdkJaRjZWQksrejZEdmJCbk5RYlhKbEoxOG5TT1JDc1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzU3ODczCWZpbGU6ZG9uem8tY2FsZW5kYXItbWFjb3MtYWFyY2g2NC5hcHAudGFyLmd6CjUxSFJLVUZTRVdQY1Z5SUtrb0U1R3l6M3J5WkxYc0oxRit4dk02VXR5TG5tVU96Mys5N2kzUHY1RldHR0NicGIyeElZSm5kd2FEaFFTd29LUjlHNkFRPT0K"
     }
   }
 }
