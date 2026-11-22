@@ -1,11 +1,11 @@
 {
-  "version": "1.0.17",
-  "notes": "- fix(sync): apply the stuck-push migration at app launch\n- feat(monitoring): bump the version on every release, add /rebuild-monitoring",
-  "pub_date": "2026-11-22T16:14:36Z",
+  "version": "1.0.18",
+  "notes": "- fix(sync): stop iOS freezes surfacing as pool timeouts, and losing rows\n- feat(imessage): mail rules apply at once, with edit and undo\n- feat(build): apply pending migrations wherever edge functions deploy\n- feat(imessage): list every mail tag with inbox counts\n- fix(imessage): one readable bubble for a mail rule proposal\n- feat(ship): apply pending supabase migrations before every ship",
+  "pub_date": "2026-11-22T18:09:27Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.17/donzo-code-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalJjZlZIRUtRZEtFd0ZOMXQyNkFaZ1VCeWJXODQ0anl5TWZHcTNKUDBNZVRjeXhkelVjVE05LzU0L01WT0YzR3ZwdjVlbnRyblVsNHR3NGlKVE9tdFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzY0MDYxCWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKWXRBK3VNMVpoR1JocnorV3JBUGJsRCtVMU5wa21odkU4cHNlVzVTQnhXTHJOYzBEYTlGUncxZUtWWWlVdXBzbkpIaHpFQmVQTUV2Y2hKczk4SU1hQ3c9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.18/donzo-code-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalp6Q2NiaXBsUWt3NWpDS3NzUFRJc1M2cG1hNEh6Umg4NmF4Q0w1TlJBY1JRY1lnUVpQMVNZMWhyem5oblRhK2l0TTdJQWNXVmZlTmRSM3JPSCthNFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzcwOTUxCWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKUThLcFZSb3JtaGQ1Z0N0UU93TlNsQi9IWmJTdVkxS0RHMlY2VExuaFR6aEVYVU41SU93RWlCSVRIV0JWWUxuUVQweGExOG42NXRmVGZHcTlZdVBEQUE9PQo="
     }
   }
 }
