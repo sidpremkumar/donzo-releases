@@ -1,11 +1,11 @@
 {
-  "version": "1.0.14",
-  "notes": "- Mail: Important and Newsletters in the sidebar now count unread only\n- Restart to Update no longer leaves a second, unpinned icon in the Dock",
-  "pub_date": "2026-11-22T14:13:33Z",
+  "version": "1.0.15",
+  "notes": "- Morning digest: Got it on one device clears it everywhere quickly\n- Sync: a backgrounded iPhone can no longer stall other devices",
+  "pub_date": "2026-11-22T14:31:31Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.14/donzo-finance-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamJoeDR0Z0hWNmRJcEtJSjRNNzc5K0w1akpML2tNcWpqQW13cThzTHJHWjRPMTQ0TnlvYUMwSkYyRzQ4SnZzNkt3bW5ySGNsQm0xT2wrUkMwTGU0RFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzU2Nzk5CWZpbGU6ZG9uem8tZmluYW5jZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKeDllNzljbjZyUkJ0T1JZVFo2Y3lnd29aQmtwRTlzNSt5NlZBTnNpWnc0NDhPT3o0ZE5lcitYNTFtMzM5REFzT3VTTWp2SkMxNXBDeElYUmJHT09xQlE9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.15/donzo-finance-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamJaRGJTSExGSkNDQ2RWa2VBQU54T2ZqVzNvZGhUenNuNE5KTVVWTlpNRVJHOVV2UGRrY3gwRHhCOG50UWpEb1Y2dmhwcHUrbmEyUXQxbjRlU0ExaFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzU3ODc4CWZpbGU6ZG9uem8tZmluYW5jZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKdEtnTGo0ZHIxeU1lNEJDQVlKbnVhS1NJN3pTaVE2QVFGemNLcVc5TVpZNTQzMjdYWEtwYmwvWTFlOG9aU3dhV1F4dTIxK3hIYS9CREtpVDYvT05VREE9PQo="
     }
   }
 }
