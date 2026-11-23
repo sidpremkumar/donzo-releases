@@ -1,11 +1,11 @@
 {
-  "version": "1.0.18",
-  "notes": "- fix(sync): stop iOS freezes surfacing as pool timeouts, and losing rows\n- feat(imessage): mail rules apply at once, with edit and undo\n- feat(build): apply pending migrations wherever edge functions deploy\n- feat(imessage): list every mail tag with inbox counts\n- fix(imessage): one readable bubble for a mail rule proposal\n- feat(ship): apply pending supabase migrations before every ship",
-  "pub_date": "2026-11-22T18:09:27Z",
+  "version": "1.0.20",
+  "notes": "- test: install jsdom so the mail image sanitizer tests run\n- fix(sync): unchanged data no longer rewrites and re-syncs itself\n- fix(browser-agent): stop quoting prices a run never confirmed\n- fix(mail): catch login codes in HTML-only mail and on their own line\n- feat(monitoring): backfilled live charts, thermal graph, clearer widgets",
+  "pub_date": "2026-11-23T01:07:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.18/donzo-main-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalhGcXRISy8xUnF3VWxWVHdnTUZSaGtXTmhQZ1ZSK2lDZU16T2JYWlJsSUorWmlOaU1ocmdJSm5KY0dqRVNNNm5WWGxJK2lWOWNZRXZZRmUzVC9HVVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzcwOTQ0CWZpbGU6ZG9uem8tbWFpbi1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKZEh2SllCdTFrN2dQRWNIb3ByUHNPQWlqYlRjdUxldEZnMHNvYTZmZFNTMlIzeDZicTJkNHMvK0s1d0NNbTlxcktFaHIwK2liV3RmL1A3ZjdxVVJDQ1E9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.20/donzo-main-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRaldnYkJnUFVWUTlTUlBoZmhVdVd3dm15MmhnM28ya1hjRE85MlNDK2d4WmVsdlVkUnFvSmRjVnVIS25DdXlScUZEOXZoSFFUOWRrbXFhKysxWUx4clFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk2MDE5CWZpbGU6ZG9uem8tbWFpbi1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKS0hKd1NaUE1MR1Mrdnh3VnZlTGYyY2poNnlXVmRQaVZ0ZUl0cVE2TUI3bDhBWEZ0YWF3SzU1bVZoSktrK3dSRERLdWVVbmNucVprYlpqcjBIUWpzQlE9PQo="
     }
   }
 }
