@@ -1,11 +1,11 @@
 {
-  "version": "1.0.22",
-  "notes": "- fix(calendar): steady event drag, and label group invites\n- chore(ios): sync bundled browser-agent with its sidecar source",
-  "pub_date": "2026-11-23T16:38:29Z",
+  "version": "1.0.23",
+  "notes": "- feat(calendar): expand group invites into members' RSVPs",
+  "pub_date": "2026-11-23T18:36:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.22/donzo-main-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalgwU2p2YnArOW9RZzAwZ2FPcDM5RUZkUnJOSm5xTUFaMDR2Z3BEWUVUVjV1aGJ1NmYwMUdMQ04xZk5YalloYmJ4TnhwelNUWDg4SHByODd2WDgyL0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDUxODY5CWZpbGU6ZG9uem8tbWFpbi1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKVTY1ZEdLdFFIWHNkZ0FFVFQ4UFJWYVowd2Rpa3cxMng3cU1TbnhHOG9pN2VWVkhHM3RkUkJIdnpXZWNaR3l2Q0U1SXdjZG0zTXo4TnhPWktIS1doQ1E9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.23/donzo-main-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalg4Rk80eXBkN2I5b1pKa1pnSXFnQmUvM1hsUVJHWmtNNDM4M3ppSTc1K25JZkJHaGczeExjNjhsTkQwRlFmZ2dyZXJzbjJ2aUtValdrRnFVVCs2L0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDU4OTgzCWZpbGU6ZG9uem8tbWFpbi1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKMlJNTTQ5WDJmMVVISld5UHVLQ3dZMFdsdkR0VXIzWjdmb0h5bFBUVU1vcEQ4RnBheFN1T0QranNsOTJsMUtIMEVQY0VEeHFCWDFwNStVOVgxaHJxQmc9PQo="
     }
   }
 }
