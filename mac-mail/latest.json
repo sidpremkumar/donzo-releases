@@ -1,11 +1,11 @@
 {
-  "version": "1.0.18",
-  "notes": "- fix(sync): stop iOS freezes surfacing as pool timeouts, and losing rows\n- feat(imessage): mail rules apply at once, with edit and undo\n- feat(build): apply pending migrations wherever edge functions deploy\n- feat(imessage): list every mail tag with inbox counts\n- fix(imessage): one readable bubble for a mail rule proposal\n- feat(ship): apply pending supabase migrations before every ship",
-  "pub_date": "2026-11-22T18:09:27Z",
+  "version": "1.0.20",
+  "notes": "- test: install jsdom so the mail image sanitizer tests run\n- fix(sync): unchanged data no longer rewrites and re-syncs itself\n- fix(browser-agent): stop quoting prices a run never confirmed\n- fix(mail): catch login codes in HTML-only mail and on their own line\n- feat(monitoring): backfilled live charts, thermal graph, clearer widgets",
+  "pub_date": "2026-11-23T01:07:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.18/donzo-mail-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalZlRlc0V3BlSm9ZeWZRR1NTU2lkNXJVL3QwL09aVjNaem5kQmU1aTRONXVNTWlOWnhSbHZnamNOMzRPL0hhYUtwa2tSSys3UElvSmlibStTZWtlcUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzcwOTQ3CWZpbGU6ZG9uem8tbWFpbC1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKcVI0TmdMZ0hyV0hPV2s5ZEhTNUVaSWFadTJaV01vOS91TGVNaUUrNTBJQ2VEdFdkcjN5d0R4dmVWMGM1K1pRVzFpUWdKNUhOTXR6OGlpOUYzR1RCRHc9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.20/donzo-mail-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalZZZVRSM2FuNGRKM0dhNENubXA4aWVaUXQrc2VYUXRzRXlCbWVwVFZyMU9ZeFlJdXVTQmFkT0pkMEhOUlV3ZDJjOWxvTXNiTVZqYUhuTTdaamErUEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk2MDIxCWZpbGU6ZG9uem8tbWFpbC1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKcTZkdzdOSk42T0lQZUtiMS9yak4yZ0VZYUlxNGI0RmZiNTRIdjczOXI3VWNmZlRjL3lLZklsRllqcWlkYkMwSVhjcER1RzRtUllVS2JHd3k2S2hJRFE9PQo="
     }
   }
 }
