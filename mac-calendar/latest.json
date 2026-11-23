@@ -1,11 +1,11 @@
 {
-  "version": "1.0.18",
-  "notes": "- fix(sync): stop iOS freezes surfacing as pool timeouts, and losing rows\n- feat(imessage): mail rules apply at once, with edit and undo\n- feat(build): apply pending migrations wherever edge functions deploy\n- feat(imessage): list every mail tag with inbox counts\n- fix(imessage): one readable bubble for a mail rule proposal\n- feat(ship): apply pending supabase migrations before every ship",
-  "pub_date": "2026-11-22T18:09:27Z",
+  "version": "1.0.20",
+  "notes": "- test: install jsdom so the mail image sanitizer tests run\n- fix(sync): unchanged data no longer rewrites and re-syncs itself\n- fix(browser-agent): stop quoting prices a run never confirmed\n- fix(mail): catch login codes in HTML-only mail and on their own line\n- feat(monitoring): backfilled live charts, thermal graph, clearer widgets",
+  "pub_date": "2026-11-23T01:07:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.18/donzo-calendar-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamIxOVIxam40clByS0g4RGhMZ2hYSzE4ZG9RTEh2M0c2VFhMOUtGOHdSdUFHNjVTcHhHWW1zbk5rRjl2ckx0NE9LTE1VMmtQNlJIOG9tTzByaXR5SmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzcwOTQ5CWZpbGU6ZG9uem8tY2FsZW5kYXItbWFjb3MtYWFyY2g2NC5hcHAudGFyLmd6Cm95UzNmVE5CNDBicTUzMFJ3TDMvc1FmamVUWnRDMGRRcUhGWktyM2xhUVp1QVpPVXZscWVYdG1PbWNwRDhIZ2xXUEJJNG5DcTJHbnRyQW9BYSs1MkFnPT0K"
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.20/donzo-calendar-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamVxZmtueHlaM1BnUXRlcS9ZRkRjRkFNcExTM1BEUzd2T2lJcnpXOU9jbEttK2NqdCtYSEJrM0RVS2lmWkNFZFdZMzFNcDZ3bFNzTW9ablM1M0ZqQndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk2MDIzCWZpbGU6ZG9uem8tY2FsZW5kYXItbWFjb3MtYWFyY2g2NC5hcHAudGFyLmd6CmVtSzhLamwvVGduRmovYnZxRUNjd05KR2VxWGZka3dqOUlLRlBLbWVaeldKVU80elpjeUZQL2hOR2thNThWaGZJOEVTNkdFOXRMNGk4RnRlRXB1RERnPT0K"
     }
   }
 }
