@@ -1,11 +1,11 @@
 {
-  "version": "1.0.18",
-  "notes": "- fix(sync): stop iOS freezes surfacing as pool timeouts, and losing rows\n- feat(imessage): mail rules apply at once, with edit and undo\n- feat(build): apply pending migrations wherever edge functions deploy\n- feat(imessage): list every mail tag with inbox counts\n- fix(imessage): one readable bubble for a mail rule proposal\n- feat(ship): apply pending supabase migrations before every ship",
-  "pub_date": "2026-11-22T18:09:27Z",
+  "version": "1.0.20",
+  "notes": "- test: install jsdom so the mail image sanitizer tests run\n- fix(sync): unchanged data no longer rewrites and re-syncs itself\n- fix(browser-agent): stop quoting prices a run never confirmed\n- fix(mail): catch login codes in HTML-only mail and on their own line\n- feat(monitoring): backfilled live charts, thermal graph, clearer widgets",
+  "pub_date": "2026-11-23T01:07:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.18/donzo-finance-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalQwOU1jWi9HRFZIcTBib3JMQTY1RTFmRmoxNlprV2htQ1ZKcjlDNUc2emNnTEh6b3RZSGN2M3FxUCtMaVFMbTB1cDdaOFBiVlNiRzhnU3BGZzNPUXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzcwOTUzCWZpbGU6ZG9uem8tZmluYW5jZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKQ2tUR1FOeklDR3hjb0w5VUJ3cWNQblQxZkVxK01XL3ZBUlZjSEQ4Y3hxK3B1ZVJUaEVsOXAxQmJqdXdZTDRrR1ZYYkVPR2VmUWl4VmcvTTRwSXlqQkE9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.20/donzo-finance-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamFyUmtHZ3VRL1QrNWJZUUhJV09jQUw3RHdGbHNVcEtjODR2d3hkYW1ROTljeEkzNThnMmpHZVFRR1ZzeFQzTllQeGFNWkc5ZnB4bVJ0K1BmMWR3Q2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk2MDI4CWZpbGU6ZG9uem8tZmluYW5jZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKYW8yTXpYVXo3QzgzOThTbCtuSVh5SDRmZmFqaTdxamhzZllQbEdJZEt5cStGTUIreURhbUxidEtLNDlSb1JKRk5ITGpFSGh3NWxGaXFHaVV5ZlNDQ2c9PQo="
     }
   }
 }
