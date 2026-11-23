@@ -1,11 +1,11 @@
 {
-  "version": "1.0.20",
-  "notes": "- test: install jsdom so the mail image sanitizer tests run\n- fix(sync): unchanged data no longer rewrites and re-syncs itself\n- fix(browser-agent): stop quoting prices a run never confirmed\n- fix(mail): catch login codes in HTML-only mail and on their own line\n- feat(monitoring): backfilled live charts, thermal graph, clearer widgets",
-  "pub_date": "2026-11-23T01:07:20Z",
+  "version": "1.0.22",
+  "notes": "- fix(calendar): steady event drag, and label group invites\n- chore(ios): sync bundled browser-agent with its sidecar source",
+  "pub_date": "2026-11-23T16:38:29Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.20/donzo-code-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalVJRzl0cDlVSXliZVM0MEYyZE9lbnNDaURWVEdJNGI2U0tQOUVjTFdkYUMwTU5kcFE4UGJFMTliaEQrUVhpL3Q4bTk4S1BtYllsSDI1WlNucXZnS0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk2MDI1CWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKWTZub3NWRmFHbTAwSE9VeU9CU1dEbzdOcmN5RVF3WWpuRGREdDEyUVNYdzdNb09tVjRRTlNZUjBQSllXSXN0djZUOC9qYjhhWW5ZSXAxRWw1aGZxQXc9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.22/donzo-code-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamRnaVZwUE5XYi9XNDJoTUxQWG5sTnVVV1UyVTZ2YnNlWkJEU1FDOUtJNE9rQk9pTERUMXJVdnZGQm9JWDJnQ0lNMmpETDRYTm1IYkFrOTlNalFDN0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDUxODc2CWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKd1BOenpmd0RoOFFkMlNYaFJMWTdnMzMyM1NmMzdaanVnb3ZXSG5XeUNCdk43R0ROOFRUYUZJakJNVWVxZkkzYzNpNUpLbXprL1VuVW5wa0Q5T3RHQWc9PQo="
     }
   }
 }
