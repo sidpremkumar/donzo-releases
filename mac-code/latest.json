@@ -1,11 +1,11 @@
 {
-  "version": "1.0.23",
-  "notes": "- feat(calendar): expand group invites into members' RSVPs",
-  "pub_date": "2026-11-23T18:36:49Z",
+  "version": "1.0.27",
+  "notes": "- fix(code): reviewer picker grows to fit, re-request + withdraw reviewers, cap long branch names\n- feat(calendar): event search on iOS and macOS\n- fix(imessage-host): restart Messages when inbound texts stall\n- fix(ios): re-home the native UI window when iOS swaps the scene\n- fix(calendar): say so when a booking links to an existing event, and fill it in\n- fix(agent): add forward_mail so \"forward those emails\" sends the originals",
+  "pub_date": "2026-11-24T16:30:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.23/donzo-code-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamNFUEZvTjdOcnY1YzA0My9KOUJpMGRUR0FMaG1GZnRzVUNrU2J2R0dyeWkrcGlzOEZUZlVVZDNpNEJoUWN5SEVXN21xSGM1WmFCZzZoVWEwNUlpR0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDU4OTg5CWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKd0ZaZWloVUFZWGxhU3pKblhYTDVkZWJEK3d6YXY2ZDh3WVJYakpNVm5KRGx2WFBMNlJTS2QrZWVZQnpQTHFuekF2UE55bnVXUTkvdTREc0NEZmk2Qmc9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.27/donzo-code-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalpHdUFkODRPdmFaNUlRVTVsN3JudEgxeDJPRGVIWEhnTGFQdzlBQlZOMGYvVFc1MUwvdTVsNDkvRFQ5VXZFNk42SzljclBJQURKcGg4SDAwNEN1VlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM3ODAyCWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKcFhmNzB1bUFJaXJIU1pTYXppSVZtSVpCQ0FIZWppeFZqMmt1a2NtdXdwek5OOFJHUnZRR0RkU2ovUVpWQ0hvcFVhRGIxSXB1blNTcmxMVEF3ek4zQXc9PQo="
     }
   }
 }
