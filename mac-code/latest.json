@@ -1,11 +1,11 @@
 {
-  "version": "1.0.27",
-  "notes": "- fix(code): reviewer picker grows to fit, re-request + withdraw reviewers, cap long branch names\n- feat(calendar): event search on iOS and macOS\n- fix(imessage-host): restart Messages when inbound texts stall\n- fix(ios): re-home the native UI window when iOS swaps the scene\n- fix(calendar): say so when a booking links to an existing event, and fill it in\n- fix(agent): add forward_mail so \"forward those emails\" sends the originals",
-  "pub_date": "2026-11-24T16:30:28Z",
+  "version": "1.0.29",
+  "notes": "- fix(code): keep the Cancel button on one line in the PR footer",
+  "pub_date": "2026-11-24T18:44:35Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.27/donzo-code-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalpHdUFkODRPdmFaNUlRVTVsN3JudEgxeDJPRGVIWEhnTGFQdzlBQlZOMGYvVFc1MUwvdTVsNDkvRFQ5VXZFNk42SzljclBJQURKcGg4SDAwNEN1VlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM3ODAyCWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKcFhmNzB1bUFJaXJIU1pTYXppSVZtSVpCQ0FIZWppeFZqMmt1a2NtdXdwek5OOFJHUnZRR0RkU2ovUVpWQ0hvcFVhRGIxSXB1blNTcmxMVEF3ek4zQXc9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.29/donzo-code-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalhOQXJNODlOTXpyc2t6ZjFUWGQ3L3BRYWwxbkRHbVJ6UTN0UW4wYlVOWXJxekdKL3VzZTRBYWZEWS90bjlvb05oZmlkMExBRjZDN3QwUklXdjBpT3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTQ1ODY5CWZpbGU6ZG9uem8tY29kZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKdVd6dGZ0MGZ6T3d4UkF5YlVWT2IrNGM0ZnB1SWN2U1ZQRXloSldVUnorSENVVDBqSjBUNkpZeUttRjNFNmtUVVVjTXN0QWhLZFpSYzA5MkZVMWdDQ2c9PQo="
     }
   }
 }
