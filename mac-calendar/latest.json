@@ -1,11 +1,11 @@
 {
-  "version": "1.0.33",
-  "notes": "- Hotel stays linked to Gmail's all-day booking events now show at real check-in (3 PM) / check-out (11 AM) times",
-  "pub_date": "2026-11-25T12:33:15Z",
+  "version": "1.0.34",
+  "notes": "- fix(calendar): open travel detail in its own window with map + copy actions",
+  "pub_date": "2026-11-25T20:16:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.33/donzo-calendar-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalZ5cStSNGhLN2h5UWFtWkkvTVFrbjNjaHRyaU9FcUxqVTBvWHZUYkxzcE9Ua2ZFWXdNN0kwbExkcmVxelI2bkRyMStTYkFUQmZyWUJZend2MGhEQUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjA5OTc1CWZpbGU6ZG9uem8tY2FsZW5kYXItbWFjb3MtYWFyY2g2NC5hcHAudGFyLmd6Cm9ZWU5EQjdKQm81TjBSQXdIMmtsRkpMSVp5WkMzay9FZ1E4bjJJNWE5RmcxNlFOUi9wU2p1dXQrc3FrQ2JVUFJKNW5LTTh1ZWhlK0E2SlJQSFJQNEFBPT0K"
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.34/donzo-calendar-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRallYL3hLbzRTenZldnB3bFVkZUZrK0ZMK2RoazFVd2dWWm5HcWtyUG9zUkdpS2ZZRjVmNUxYZDVmekNNcU9BNjAwcnlyZzd0RHhkRG1TUjcxTGE4cWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjM3NzY2CWZpbGU6ZG9uem8tY2FsZW5kYXItbWFjb3MtYWFyY2g2NC5hcHAudGFyLmd6CkZMYnVJaE42M3ArUzNwdGpqMUtBbjh4Y3laRTVqZEpMZDVKQTBMVUlTZ1hsR1lDejZEUUQyNlFqOEVrSHVaaDQyZTdVbUNqN2hvdVNJY09oYzNwNEFRPT0K"
     }
   }
 }
