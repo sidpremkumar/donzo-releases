@@ -1,11 +1,11 @@
 {
-  "version": "1.0.27",
-  "notes": "- fix(code): reviewer picker grows to fit, re-request + withdraw reviewers, cap long branch names\n- feat(calendar): event search on iOS and macOS\n- fix(imessage-host): restart Messages when inbound texts stall\n- fix(ios): re-home the native UI window when iOS swaps the scene\n- fix(calendar): say so when a booking links to an existing event, and fill it in\n- fix(agent): add forward_mail so \"forward those emails\" sends the originals",
-  "pub_date": "2026-11-24T16:30:28Z",
+  "version": "1.0.30",
+  "notes": "- Hotel/flight confirmations sent as HTML-only email now get picked up as travel\n- Hotels created from an all-day event get real check-in (3 PM) / check-out (11 AM) times\n- Event detail shows a hotel stay's check-in/out instead of \"All day\"; no more duplicate address\n- Mail search ranks one-time codes and password emails below real mail",
+  "pub_date": "2026-11-25T04:48:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.27/donzo-finance-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalpJMmlVUms3YkJJY2grZXBNcE9sMVp4VGxCYUhXMFBFSk9MWHlyQmFqR2FOS0Y0ajVpQmpyVkJFb1FBZUtURURtWGlNYlFmUlZOcmVxWmxWdmNrd2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM3ODA0CWZpbGU6ZG9uem8tZmluYW5jZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKcTgxOVVHWDVuVGZwWDZnLzUzVHU2UHRycjk5UnFVcFptN3BuQS9XRjNGMUpMdG9qZmRSZlRobTFGclRUaUJCekxaZ2lqc1NaRGRtRm5mUm9tY2puQXc9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.30/donzo-finance-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamJJN1RGelJSTUkrWmQwWkZ5cmNMZzZwMTZoUG9PN2xkcHZZSzRIRjA1bk1ORGhSMW9RNElaK1RSeVh0c2lTNEU3bTFOM3BCTHNOenQ2VURmY3FHaGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTgyMTA2CWZpbGU6ZG9uem8tZmluYW5jZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKZDRqZS8zWkVScThpNEg5YkJMdEpmeHB5QzRsYlpmcWdtVWlibnFYNWlnd1hSdmZpQzlHYU9sZkdoMmlLVVkvdXN2RkloOU1uZ0Z6ZE9Gdk4zSHIyRHc9PQo="
     }
   }
 }
