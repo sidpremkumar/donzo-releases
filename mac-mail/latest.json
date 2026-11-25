@@ -1,11 +1,11 @@
 {
-  "version": "1.0.34",
-  "notes": "- fix(calendar): open travel detail in its own window with map + copy actions",
-  "pub_date": "2026-11-25T20:16:32Z",
+  "version": "1.0.37",
+  "notes": "- fix(travel): compact equal-width map action tiles instead of wrapping pills\n- fix(mail): split-inbox chips count unread, not every thread\n- fix(agent): create invite-free calendar events without an approval prompt",
+  "pub_date": "2026-11-25T21:41:21Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.34/donzo-mail-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalpLMU5EakxYcDZTOXBubCt5OU11cWtXVlBnaFpZaTBZN2NwOThOaERUemQxemx0eWxMeEkrNEhpb3VxaXFiU1RESHVZQ3Z4TVc5SFkrSWhldFB1SUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjM3NzY0CWZpbGU6ZG9uem8tbWFpbC1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKMWZMSmVUQ0xMQlRyVHN5YStMb2NmejNzWGF4bWpTSFQxeWlkM28zc1RSVGVVRzRVYjRiQVVIczJ1QW5LdmdmMnNRS094TDZTMkpLb3EwbGNVZXF0RFE9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.37/donzo-mail-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRallLQzd5VjBkUmxaNklSdnRSa0V3MVJQWm9ZNzNib2hxMnA5aVFhSkg4V1RPKzdNdTJMejZOcWpGNEMyMy84MVZ5OUJ0ckpleDlIMkpoUTJQWEFZc2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQyODU2CWZpbGU6ZG9uem8tbWFpbC1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKQkhDNUsybEVpOUxXYUJKTHBOanZxNGhnSUlVUWhzY1dtbHBGMjVDeHZaQktnT3ZFUGo0dHNqSGJzejNhWmR4WldiMUhEYXR0bWYyemtpS3ZnM2dkQXc9PQo="
     }
   }
 }
