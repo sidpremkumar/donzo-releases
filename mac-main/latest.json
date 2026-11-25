@@ -1,11 +1,11 @@
 {
-  "version": "1.0.27",
-  "notes": "- fix(code): reviewer picker grows to fit, re-request + withdraw reviewers, cap long branch names\n- feat(calendar): event search on iOS and macOS\n- fix(imessage-host): restart Messages when inbound texts stall\n- fix(ios): re-home the native UI window when iOS swaps the scene\n- fix(calendar): say so when a booking links to an existing event, and fill it in\n- fix(agent): add forward_mail so \"forward those emails\" sends the originals",
-  "pub_date": "2026-11-24T16:30:28Z",
+  "version": "1.0.30",
+  "notes": "- Hotel/flight confirmations sent as HTML-only email now get picked up as travel\n- Hotels created from an all-day event get real check-in (3 PM) / check-out (11 AM) times\n- Event detail shows a hotel stay's check-in/out instead of \"All day\"; no more duplicate address\n- Mail search ranks one-time codes and password emails below real mail",
+  "pub_date": "2026-11-25T04:48:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.27/donzo-main-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalJ0RDRuTjVDb1RiL3M4czdCS1pwdkR5cnd4M3hsL3UzU1o2TkcxWG81TlFjYTZBbWR5V2RPNElUTTBxOWVPQTdiRXhWejVjWXB2UFhGcFRBV29UWVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM3Nzk1CWZpbGU6ZG9uem8tbWFpbi1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKR2t4WXB4bmNPdlVNWDZOMktaUUU0RkdCTkh2OG1PVzhIcnpqYnFpYk1pMUpjYlRwWllhUmF0Y0NLSlViQmQyUlFBVXdJREsvN0FCWW9XUFdDeVN5REE9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.30/donzo-main-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalhJNkxlRzZoYTZNaUJ1TjJGVmIrN2x0MnM2cTdkN0dZTWd0TEcrb21uQWdTMVcyTUNTNU1WcitKYkt2QnhWa1VRbEkrWks1QjRGZy9HMjR5R2FmVndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTgyMDk3CWZpbGU6ZG9uem8tbWFpbi1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKcWowNTN2SEdpdFBlc2xmYnowSHlGQ1NqRWkrSDh1RWNhUUtoL3RKbUlNNGs5WkdJaVh1U1VZdzJweURUVXZldnB1bWFxdWJaZnd4QW1qenBNMDFVREE9PQo="
     }
   }
 }
