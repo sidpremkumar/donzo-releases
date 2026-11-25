@@ -1,11 +1,11 @@
 {
-  "version": "1.0.30",
-  "notes": "- Hotel/flight confirmations sent as HTML-only email now get picked up as travel\n- Hotels created from an all-day event get real check-in (3 PM) / check-out (11 AM) times\n- Event detail shows a hotel stay's check-in/out instead of \"All day\"; no more duplicate address\n- Mail search ranks one-time codes and password emails below real mail",
-  "pub_date": "2026-11-25T04:48:42Z",
+  "version": "1.0.33",
+  "notes": "- Hotel stays linked to Gmail's all-day booking events now show at real check-in (3 PM) / check-out (11 AM) times",
+  "pub_date": "2026-11-25T12:33:15Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.30/donzo-main-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalhJNkxlRzZoYTZNaUJ1TjJGVmIrN2x0MnM2cTdkN0dZTWd0TEcrb21uQWdTMVcyTUNTNU1WcitKYkt2QnhWa1VRbEkrWks1QjRGZy9HMjR5R2FmVndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTgyMDk3CWZpbGU6ZG9uem8tbWFpbi1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKcWowNTN2SEdpdFBlc2xmYnowSHlGQ1NqRWkrSDh1RWNhUUtoL3RKbUlNNGs5WkdJaVh1U1VZdzJweURUVXZldnB1bWFxdWJaZnd4QW1qenBNMDFVREE9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.33/donzo-main-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamZtTWNuSkYvMGwzMDJHT3dpNnZkQXc3MFEreEcwR2drN0V0Ym9oT2ZGL2JmUFRuTTUzaCtyUWNyTmxsLzcvcGd5LzdWRG9ZN0pJdVNJNDJCbTRnUlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjA5OTcxCWZpbGU6ZG9uem8tbWFpbi1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKT1FOQVVSNlE2ZWhSSGY0Vnd3WjdXRGhlVXE5MGhIMkZsQ1FWdGtkQ0VnSFlUQ0EralBwek9rclVoWklaNHdZN1NnTW9sWjJySGZTcjdTUFgxWDE5QXc9PQo="
     }
   }
 }
