@@ -1,11 +1,11 @@
 {
-  "version": "1.0.37",
-  "notes": "- fix(travel): compact equal-width map action tiles instead of wrapping pills\n- fix(mail): split-inbox chips count unread, not every thread\n- fix(agent): create invite-free calendar events without an approval prompt",
-  "pub_date": "2026-11-25T21:41:21Z",
+  "version": "1.0.39",
+  "notes": "- feat(mail): name the account on every row in All Inboxes, not just a dot\n- fix(imessage): mail digest reads like a person, not an intro plus a list",
+  "pub_date": "2026-11-26T22:15:15Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.37/donzo-calendar-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalM3OGxibi92Uk1wUlJ4UlBhS0dUSS9IbVFuQUFjYkgwNmNqQkFuNVVkRjk2QmVhQVhVaGNtMEJNWHF5S25MNVlqYlZvS2xkWVJRMldlTGhkZy9talFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQyODU4CWZpbGU6ZG9uem8tY2FsZW5kYXItbWFjb3MtYWFyY2g2NC5hcHAudGFyLmd6CjgvU3REUG90WFMvaVM4MVJWbTNsaDNIZnJVNng3TjFIQ2IzRmJnWStiOVJVTDdiYVZGdmVXdy9MUXFkRUZmZE1IQ2pKdm5iMlpyWk1qNGVIQ1dGeEJnPT0K"
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.39/donzo-calendar-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamVxdjNnbGowUExoOW5JdGxVK3crbVlBcnlzQkNQQUVHTW1sdnJucnJHRjIvQWs0YXU3dzZ5Y0pzVTNtYzc3Z0hESEplRkhRejNrZ1NDMnlyZWk5OUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzMxMjk0CWZpbGU6ZG9uem8tY2FsZW5kYXItbWFjb3MtYWFyY2g2NC5hcHAudGFyLmd6Ck1BTGZ5OTROanlqVG5ZSDhiR0g3eTF2emI2ajFuakxZZTNOdkRQUjl5bkYxQ0VLRGZOL0pndlJFaTdQL0VhUEZoRmE3TklzQ1BoOTVPdkdVeC9JQUR3PT0K"
     }
   }
 }
