@@ -1,11 +1,11 @@
 {
-  "version": "1.0.39",
-  "notes": "- feat(mail): name the account on every row in All Inboxes, not just a dot\n- fix(imessage): mail digest reads like a person, not an intro plus a list",
-  "pub_date": "2026-11-26T22:15:15Z",
+  "version": "1.0.43",
+  "notes": "- fix(bridge): don't time out engine actions across an app suspension\n- feat(mail): tint each account with its calendar color\n- fix(calendar): dismissable keyboard in event form; gift icon on birthday events",
+  "pub_date": "2026-11-27T01:28:55Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.39/donzo-mail-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRald0Ujk1L3BPaU1DOFhjMVY0Q2JzM3FWYnZXNFBSV1gzU2VSSzUwVXhNZjhWS1hNQkpXTkdMK2hmQmlpOXpCeVNTU3FpU3NiNU0yeWVCWUZwZTQ1WndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzMxMjkyCWZpbGU6ZG9uem8tbWFpbC1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKeTROUkJHTndKSFM0b29sWkQ1L3BSSkRTZEFLQmdXY00rMHpBRnlhNHRkSm5IdG5kOGJQeVRNaWE5U1hraDJOVUdqaXBadHlBUFBjQ0wwUVhWK1NrQmc9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.43/donzo-mail-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRamJQRlIxK05qR29sbG1mdnZwSld3YlFGcDhNQjVCZW1HeDNmWktxc29pYWhHSWpnRndoQjhnUDRraUZROEFRYWg4aE92WXFNcXFMZkxrUkVEUGNJMWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQyOTEzCWZpbGU6ZG9uem8tbWFpbC1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKYy9QdkhWU1d6UStUZ0RBbG8weURpeWh5TkVNZ3RJNVV3SFZqZ3V2bkpEZjNHbXVqUkcxQ2JMSDlqWS96TWMyV1YweG5ReTU0SUpjcEpCVG8zejZsQlE9PQo="
     }
   }
 }
