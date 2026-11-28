@@ -1,11 +1,11 @@
 {
-  "version": "1.0.43",
-  "notes": "- fix(bridge): don't time out engine actions across an app suspension\n- feat(mail): tint each account with its calendar color\n- fix(calendar): dismissable keyboard in event form; gift icon on birthday events",
-  "pub_date": "2026-11-27T01:28:55Z",
+  "version": "1.0.47",
+  "notes": "- feat(mail): find, rich formatting and undo in the compose editor\n- fix(imessage): cache host keychain secrets off the hot path\n- fix(ios): unfolded split view keeps its sidebar across app switches\n- fix(browser-agent): hand Google sign-ins to a plain Chrome window\n- fix(imessage): waiting-on-AI alert rows can't starve due retries\n- chore(macos): sample the main thread again 10s and 25s into a long stall\n- fix(telemetry): a sql-guard hard exit is a clean quit, not a crash\n- fix(imessage): mail alerts wait for the AI category before dropping signal-less mail\n- feat(imessage): link cards wear the iOS account and category pills\n- feat(imessage): full-bleed link card preview, bigger type\n- chore(edge): auto-deploy alert-card-image like relay-alerts\n- feat(imessage): link cards go out as their own bubble, tapbacks on them count\n- fix(macos): stop false main-thread stall faults; skip scroller sweeps off-screen\n- feat(imessage): link cards show a rendered email preview\n- feat(imessage): turn on link cards for mail alerts\n- feat(imessage): swipe-reply targeting, threaded answers, and \"which one?\"\n- feat(imessage): link cards for mail alerts via go.momentshare.co (off until infra is live)\n- fix(ios): register CalendarSearch.swift in the Xcode project\n- feat(digest): reopen the morning digest after Got it on iOS",
+  "pub_date": "2026-11-28T02:22:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.43/donzo-finance-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalVzYUVKSTBidVNIeXo4d2FNNm8yMTZFQkNNRjIxUnBoM0VuK0xqdDhEM3d0T2Z3VElEL0JsaHUzTGhEQlZpdkhteDBjR25uSHRFWHFmUTF6Z2NlRHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQyOTIwCWZpbGU6ZG9uem8tZmluYW5jZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKQThLME50alFLUXM1ZGk2ZGxVdmJCYW1RdGlDVDRkY3ZaQUhOVVM5UWh4eFFFTzJyNXhFbXFGUVNQVmM2UkdBNEdHYjJPUi9qNlBub0VncG5wUnN2Q0E9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.47/donzo-finance-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalJaNk80SFJnYmxxNDRWeHJLTEkxOWIvUVlmbG9RR1R1ZEtQQVR0cWxIZ2ZRcytQQkhsdUtjUjhUVjFTbVJTdG0xLy9PdXhScnVJeGRuWmV5TlRZVlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODMyNTAyCWZpbGU6ZG9uem8tZmluYW5jZS1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKQ2FKQVRhU0dJOEF2NXNMVGVZM2NDcVlMN253cTVzaU1OVFVRUVMxcEdhR2JDdWl0c0daTGR1Z0pCTmdEYy8rbU1oY0c1WkltVHRmZUxLcmxiTXRoQlE9PQo="
     }
   }
 }
