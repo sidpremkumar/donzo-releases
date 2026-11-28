@@ -1,11 +1,11 @@
 {
-  "version": "1.0.43",
-  "notes": "- fix(bridge): don't time out engine actions across an app suspension\n- feat(mail): tint each account with its calendar color\n- fix(calendar): dismissable keyboard in event form; gift icon on birthday events",
-  "pub_date": "2026-11-27T01:28:55Z",
+  "version": "1.0.47",
+  "notes": "- feat(mail): find, rich formatting and undo in the compose editor\n- fix(imessage): cache host keychain secrets off the hot path\n- fix(ios): unfolded split view keeps its sidebar across app switches\n- fix(browser-agent): hand Google sign-ins to a plain Chrome window\n- fix(imessage): waiting-on-AI alert rows can't starve due retries\n- chore(macos): sample the main thread again 10s and 25s into a long stall\n- fix(telemetry): a sql-guard hard exit is a clean quit, not a crash\n- fix(imessage): mail alerts wait for the AI category before dropping signal-less mail\n- feat(imessage): link cards wear the iOS account and category pills\n- feat(imessage): full-bleed link card preview, bigger type\n- chore(edge): auto-deploy alert-card-image like relay-alerts\n- feat(imessage): link cards go out as their own bubble, tapbacks on them count\n- fix(macos): stop false main-thread stall faults; skip scroller sweeps off-screen\n- feat(imessage): link cards show a rendered email preview\n- feat(imessage): turn on link cards for mail alerts\n- feat(imessage): swipe-reply targeting, threaded answers, and \"which one?\"\n- feat(imessage): link cards for mail alerts via go.momentshare.co (off until infra is live)\n- fix(ios): register CalendarSearch.swift in the Xcode project\n- feat(digest): reopen the morning digest after Got it on iOS",
+  "pub_date": "2026-11-28T02:22:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.43/donzo-main-macos-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalRqSm13M2FtYW9lOWlja0hBR0Yyby9pVm5SaEp5VUhWeXZKRWovS1Q3SEN1NktBSnUxYnNqNWQxSVRITk1rQVFMYXAyUTNMMEdTWmhXSWZHeGlLUXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQyOTExCWZpbGU6ZG9uem8tbWFpbi1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKSDhJNlp3aU12cG1QdkYxN3JId0t5Rm8wejNyb09za1lWWGNmclo4aE5ER1laTUZPMFdQQXcwS2xjWVpMcWdNejFFejNORVY3MEJRd2dVeWptMGljQ2c9PQo="
+      "url": "https://github.com/sidpremkumar/donzo-releases/releases/download/mac-v1.0.47/donzo-main-macos-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMGhUc3dUR1dRalNBSnFWUFA5WUt1RVVoSm9iN045RW5HQXpTbmlmZXdQWjFuQzJZbHczNENJZ0pnSGkvTTAzTTNtTnpvWTI3RFBtdzVGQVRTR1hwaG02NTd2dEEwNmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODMyNDkzCWZpbGU6ZG9uem8tbWFpbi1tYWNvcy1hYXJjaDY0LmFwcC50YXIuZ3oKallpNXBVOXVNVksxUjBhVXNadW1NbGE5YU01eVBPK0JjTUE5SktYdzNvdklBd3grY0lDWXg2RzBqb296bzdLNkpxeVR2Z28vYUVlRUkzTFQ1YkxQQ0E9PQo="
     }
   }
 }
